@@ -1,6 +1,6 @@
 # MTA-STS on GitHub Pages
 
-Template repository to host `mta-sts.YOURDOMAIN/.well-known/mta-sts.txt` on GitHub Pages.
+Template repository for hosting `mta-sts.YOURDOMAIN/.well-known/mta-sts.txt` on GitHub Pages.
 
 For more information about MTA-STS, including details of required DNS record setup and options available, please see this article: https://www.mailhardener.com/kb/mta-sts
 
