@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: *.googlemail.com
+mx: *.aspmx.l.google.com
+mx: aspmx.l.google.com
+max_age: 604800
