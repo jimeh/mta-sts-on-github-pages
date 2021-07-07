@@ -1,8 +1,6 @@
 version: STSv1
 mode: testing
 max_age: 604800
-
-;; Google Workspace MX servers
 mx: *.googlemail.com
 mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
